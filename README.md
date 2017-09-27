@@ -1,5 +1,9 @@
-# present-gdg-golang-berlin
-Presentation about the GDG Golang Berlin meetup.
+# GDG Golang Berlin
+Once every month about 70 Gophers meet somewhere in Berlin.
+But who are they?
+What are they doing there?
+How are they kept happy?
+What does it feel like to be at such a meetup?
 
 Present this repo using GitPitch with: [https://gitpitch.com/flowdev/present-gdg-golang-berlin](https://gitpitch.com/flowdev/present-gdg-golang-berlin) \
 Or including notes with: [https://gitpitch.com/flowdev/present-gdg-golang-berlin?n=true](https://gitpitch.com/flowdev/present-gdg-golang-berlin?n=true)
