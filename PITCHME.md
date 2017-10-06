@@ -1,8 +1,27 @@
-# GDG Goland Berlin
+# GDG Golang Berlin
 
 ---
 
-## General Information
+## Why Go?
+
+- Progamming language developed by Google, published since November 2009 |
+- Memory managed (as opposed to C or C++) |
+- Single static binary as result (as opposed to JVM and interpreted languages) |
+- Java developers strive for a 10 minute build; Go developers get angry about a 10 second build |
+- Garbage collection guaranteed to take less than 1 ms (as opposed to JVM) |
+
+---
+
+## What is Go used for?
+
+- Cloud technology (Docker, Kubernetes, Prometheus, ...) |
+- FinTech (solarisBank, Barzahlen, Fraugster, OptioPay, ...) |
+- Advertisement technology (Adjust, Remerge, ...) |
+- ... |
+
+---
+
+## About the Meetup
 
 - Meetup: [www.meetup.com/golang-users-berlin](https://www.meetup.com/golang-users-berlin) |
 - 1328 Members |
