@@ -5,10 +5,11 @@
 ## Why Go?
 
 - Progamming language developed by Google, published since November 2009 |
-- Memory managed (as opposed to C or C++) |
+- Automatic memory management (garbage collection) (as opposed to C or C++) |
 - Single static binary as result (as opposed to JVM and interpreted languages) |
 - Java developers strive for a 10 minute build; Go developers get angry about a 10 second build |
-- Garbage collection guaranteed to take less than 1 ms (as opposed to JVM) |
+- Garbage collection guaranteed to block for less than 1 ms (as opposed to JVM) |
+- Go is free of magic and everybody strives for simplicity |
 
 ---
 
@@ -17,22 +18,43 @@
 - Cloud technology (Docker, Kubernetes, Prometheus, ...) |
 - FinTech (solarisBank, Barzahlen, Fraugster, OptioPay, ...) |
 - Advertisement technology (Adjust, Remerge, ...) |
-- ... |
+- ??? |
+- Mostly used by startups but enterprises are coming |
 
 ---
 
-## About the Meetup
+## Many people: 1348 Members
+## Usually around 70 attendees
 
-- Meetup: [www.meetup.com/golang-users-berlin](https://www.meetup.com/golang-users-berlin) |
-- 1328 Members |
-- Monthly meetup |
-- Usually around 70 attendees |
-- 2 talks |
-- HR section |
+---
+
+## Monthly meetup: different hosting companies
+
+---
+
+## Networking at start, end and in breaks: Usually around 70 attendees
+
+Show people, beer, pizza
+
+---
+
+## 2 talks: Show topics
+
+---
+
+## Hire/get hired section after first talk
+
+show company logos
 
 ---
 
 ## Friendly people
+
+---
+
+## Meetup
+
+[www.meetup.com/golang-users-berlin](https://www.meetup.com/golang-users-berlin) |
 
 ---
 
