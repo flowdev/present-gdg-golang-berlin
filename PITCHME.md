@@ -1,6 +1,6 @@
 # GDG Golang Berlin
 
----?image=assets/gopher.png
+---?image=assets/gopher.png&size=auto 90%
 
 ## What is Go?
 
@@ -9,7 +9,7 @@
 - It has garbage collection (as opposed to C or C++) |
 - Simple syntax between C and Java with some simple extensions |
 
----?image=assets/gopher-brown.png
+---?image=assets/gopher-brown.png&size=auto 90%
 
 ## Why Go?
 
@@ -18,7 +18,7 @@
 - Garbage collection guaranteed to block for less than 1 ms (as opposed to JVM) |
 - Go is free of magic and everybody strives for simplicity |
 
----?image=assets/gopher-pilot.png
+---?image=assets/gopher-pilot.png&size=auto 90%
 
 ## What is Go used for?
 
@@ -28,7 +28,7 @@
 - ??? |
 - Mostly used by startups but enterprises are coming |
 
----?image=assets/gopher-berlin.jpg
+---?image=assets/gopher-berlin.jpg&size=auto 90%
 
 ## 1348 Members
 
