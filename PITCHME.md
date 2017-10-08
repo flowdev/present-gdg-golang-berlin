@@ -32,37 +32,83 @@
 
 ## 1349 Members
 
+---?image=assets/friendly-gophers.jpeg&size=contain
+
+Note:
+Around 70 attendees
+
+
+---?image=assets/onefootball-gophers.jpeg&size=contain
+Note:
+Different hosting companies
+
+---?image=assets/amazon-gophers.jpeg&size=contain
+
+
+---?image=assets/optiopay-venue.jpeg&size=contain
+---?image=assets/optiopay-view.jpeg&size=contain
+
+---?image=assets/kinvolk-gophers.jpeg&size=contain
+
+---?image=assets/new-adjust-gophers.jpeg&size=contain
+
+---?image=assets/google-gophers1.jpeg&size=contain
+---?image=assets/google-gophers2.jpeg&size=contain
+
+
+
+---?image=assets/chating-gophers.jpeg&size=contain
+Note:
+Networking
+
+---?image=assets/beer-gophers.jpeg&size=contain
+---?image=assets/pizza-gophers.jpeg&size=contain
+
 ---
 
-## Usually around 70 attendees
+## First Talk
+
+- Show topics |
 
 ---
 
-## Monthly meetup: different hosting companies
-
----
-
-## Networking at start, end and in breaks: Usually around 70 attendees
-
-Show people, beer, pizza
-
----
-
-## 2 talks: Show topics
-
----
-
-## Hire/get hired section after first talk
+## Hire/Get Hired Section
 
 show company logos
 
+
+---?image=assets/chating-gophers.jpeg&size=contain
+Note:
+Break: More networking
+
+---?image=assets/beer-gophers.jpeg&size=contain
+---?image=assets/pizza-gophers.jpeg&size=contain
+
+
 ---
 
-## Friendly people
+## Second Talk
 
----?image=assets/meetup-trans.png&size=auto
+- Show topics |
+- Or fishbowl session |
 
-## Meetup
+
+---?image=assets/chating-gophers.jpeg&size=contain
+Note:
+End: Even more networking
+
+---?image=assets/beer-gophers.jpeg&size=contain
+---?image=assets/pizza-gophers.jpeg&size=contain
+
+
+---?image=assets/cute-gophers.jpeg&size=contain
+
+Note:
+Friendly people
+
+---?image=assets/meetup-trans.png&size=contain
+
+## Meetup (GDG Golang Berlin)
 
 [www.meetup.com/golang-users-berlin](https://www.meetup.com/golang-users-berlin)
 
