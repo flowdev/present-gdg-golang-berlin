@@ -60,36 +60,9 @@ show company logos
 
 ## Friendly people
 
----
+---?image=assets/meetup-trans.png&size=auto
 
 ## Meetup
 
-[www.meetup.com/golang-users-berlin](https://www.meetup.com/golang-users-berlin) |
-
----
-
-## Clean Code
-![Logo](assets/clean-code.jpg)
-
-Note:
-- Favour Composition over Inheritance
-- Separation of Concerns
-- Information Hiding Principle
-- Tell, don´t ask! (High cohesion)
-- Dependency injection
-- SOLID principles!!!
-- Single Responsibility Principle
-- Open Closed Principle: software entities should be open for extension, but closed for modification
-- Liskov Substitution Principle
-- Interface Segregation Principle: many client-specific interfaces are better than one general-purpose interface
-- Dependency Inversion Principle: one should depend upon abstractions, not concretions
-
----?image=assets/green-pasture.jpg
-
-## Objective
-
-- Decoupling as a natural thing to happen |
-- Good match for business logic           |
-- Easy to understand (low cognitive load) |
-- Natural graphical representation        |
+[www.meetup.com/golang-users-berlin](https://www.meetup.com/golang-users-berlin)
 
