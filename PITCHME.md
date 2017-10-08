@@ -1,6 +1,6 @@
 # GDG Golang Berlin
 
----?image=assets/gopher.png&size=auto 90%
+---?image=assets/gopher2.png&size=auto 90%
 
 ## What is Go?
 
