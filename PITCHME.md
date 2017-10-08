@@ -1,17 +1,24 @@
 # GDG Golang Berlin
 
----
+---?image=assets/gopher.png
+
+## What is Go?
+
+- Progamming language developed by Google, published since November 2009 |
+- It uses safe pointers (without pointer arithmetic) |
+- It has garbage collection (as opposed to C or C++) |
+- Simple syntax between C and Java with some simple extensions |
+
+---?image=assets/gopher-brown.png
 
 ## Why Go?
 
-- Progamming language developed by Google, published since November 2009 |
-- Automatic memory management (garbage collection) (as opposed to C or C++) |
 - Single static binary as result (as opposed to JVM and interpreted languages) |
 - Java developers strive for a 10 minute build; Go developers get angry about a 10 second build |
 - Garbage collection guaranteed to block for less than 1 ms (as opposed to JVM) |
 - Go is free of magic and everybody strives for simplicity |
 
----
+---?image=assets/gopher-pilot.png
 
 ## What is Go used for?
 
@@ -21,9 +28,12 @@
 - ??? |
 - Mostly used by startups but enterprises are coming |
 
+---?image=assets/gopher-berlin.jpg
+
+## 1348 Members
+
 ---
 
-## Many people: 1348 Members
 ## Usually around 70 attendees
 
 ---
