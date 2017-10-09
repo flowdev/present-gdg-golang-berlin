@@ -69,11 +69,10 @@ Networking
 ## First Talk
 
 - GopherCon Recap! |
-- githubql - a Go Client for GitHub GraphQL API |
 - Making AI Easy with Cognitive Services |
 - What 'happens before' means to a compiler |
-- Utilizing (Linux-) eBPF from Go |
 - Consumer-Driven Contract Testing |
+- Utilizing (Linux-) eBPF from Go |
 - Parsing Go in Go, for Fun and Profit |
 - A fast multi-threaded queue implementation in Go |
 - AutoSpoting: an automated EC2 spot market bidder designed to integrate well with AutoScaling |
