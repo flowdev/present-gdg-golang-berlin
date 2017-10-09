@@ -6,16 +6,16 @@
 
 - Progamming language developed by Google, published since November 2009 |
 - It uses safe pointers (without pointer arithmetic) |
-- It has garbage collection (as opposed to C or C++) |
+- It has garbage collection |
 - Simple syntax between C and Java with some simple extensions |
 
 ---?image=assets/gopher-brown-trans.png&size=auto 90%
 
 ## Why Go?
 
-- Single static binary as result (as opposed to JVM and interpreted languages) |
+- Single static binary as result |
 - Java developers strive for a 10 minute build; Go developers get angry about a 10 second build |
-- Garbage collection guaranteed to block for less than 1 ms (as opposed to JVM) |
+- Garbage collection guaranteed to block for less than 1 ms |
 - Go is free of magic and everybody strives for simplicity |
 
 ---?image=assets/gopher-pilot-trans.png&size=auto 90%
@@ -59,7 +59,7 @@ Different hosting companies
 
 ---?image=assets/chating-gophers.jpeg&size=contain
 Note:
-Networking
+Get to know some gophers.
 
 ---?image=assets/beer-gophers.jpeg&size=contain
 ---?image=assets/pizza-gophers.jpeg&size=contain
@@ -82,12 +82,19 @@ Networking
 
 ## Hire/Get Hired Section
 
-show company logos
+show company logos:
+
+- coreOS
+- Remerge
+- solarisBank
+- Zalando
+- Amazon
+
 
 
 ---?image=assets/chating-gophers2.jpeg&size=contain
 Note:
-Break: More networking
+Break: Get to know your future employer.
 
 ---?image=assets/beer-gophers.jpeg&size=contain
 ---?image=assets/pizza-gophers.jpeg&size=contain
@@ -108,7 +115,7 @@ Break: More networking
 
 ---?image=assets/chating-gophers.jpeg&size=contain
 Note:
-End: Even more networking
+End: Make some good friends.
 
 ---?image=assets/beer-gophers.jpeg&size=contain
 ---?image=assets/pizza-gophers.jpeg&size=contain
