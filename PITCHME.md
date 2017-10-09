@@ -64,7 +64,7 @@ Networking
 ---?image=assets/beer-gophers.jpeg&size=contain
 ---?image=assets/pizza-gophers.jpeg&size=contain
 
----
+---?image=assets/gopher-talk1-trans.png&size=contain
 
 ## First Talk
 
@@ -85,7 +85,7 @@ Networking
 show company logos
 
 
----?image=assets/chating-gophers.jpeg&size=contain
+---?image=assets/chating-gophers2.jpeg&size=contain
 Note:
 Break: More networking
 
@@ -93,7 +93,7 @@ Break: More networking
 ---?image=assets/pizza-gophers.jpeg&size=contain
 
 
----
+---?image=assets/gopher-talk2-trans.png&size=contain
 
 ## Second Talk
 
