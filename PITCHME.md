@@ -68,7 +68,16 @@ Networking
 
 ## First Talk
 
-- Show topics |
+- GopherCon Recap! |
+- githubql - a Go Client for GitHub GraphQL API |
+- Making AI Easy with Cognitive Services |
+- What 'happens before' means to a compiler |
+- Utilizing (Linux-) eBPF from Go |
+- Consumer-Driven Contract Testing |
+- Parsing Go in Go, for Fun and Profit |
+- A fast multi-threaded queue implementation in Go |
+- AutoSpoting: an automated EC2 spot market bidder designed to integrate well with AutoScaling |
+- Or PowerPoint karaoke for a Go release party |
 
 ---
 
@@ -89,7 +98,12 @@ Break: More networking
 
 ## Second Talk
 
-- Show topics |
+- Making Code Write Itself: How To Build Code Generation Tools in Go |
+- Go away: HTTP load shedding |
+- Semantic Addressing Extension for Go's net Package |
+- From ORM to LEFT OUTER JOIN - how we grew with Go |
+- Grand Treatise of Modern Instrumentation and Orchestration - the extended version |
+- Go @ hosting company |
 - Or fishbowl session |
 
 
