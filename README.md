@@ -1,4 +1,7 @@
 # GDG Golang Berlin
+
+[![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/flowdev/present-gdg-golang-berlin/master?grs=github&t=white)
+
 Once every month about 70 Gophers meet somewhere in Berlin.
 But who are they?
 What are they doing there?
