@@ -82,12 +82,7 @@ Get to know some gophers.
 
 ## Hire/Get Hired Section
 
-![amazon](assets/amazon.jpg)
-![Remerge](assets/remerge.svg)
-![Home24](assets/home24.jpeg)
-![SolarisBank](assets/solarisBank.png)
-![Zalando](assets/zalando.png)
-![CoreOS](assets/coreOS.png)
+![Some employers](assets/employers.png)
 
 
 ---?image=assets/chating-gophers2.jpeg&size=contain
