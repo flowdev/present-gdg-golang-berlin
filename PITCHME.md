@@ -70,7 +70,6 @@ Get to know some gophers.
 ## First Talk
 
 - GopherCon Recap! |
-- Making AI Easy with Cognitive Services |
 - What 'happens before' means to a compiler |
 - Consumer-Driven Contract Testing |
 - Utilizing (Linux-) eBPF from Go |
@@ -100,7 +99,6 @@ Break: Get to know your future employer.
 
 - Making Code Write Itself: How To Build Code Generation Tools in Go |
 - Go away: HTTP load shedding |
-- Semantic Addressing Extension for Go's net Package |
 - From ORM to LEFT OUTER JOIN - how we grew with Go |
 - Grand Treatise of Modern Instrumentation and Orchestration - the extended version |
 - Go @ hosting company |
