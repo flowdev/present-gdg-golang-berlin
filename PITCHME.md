@@ -1,3 +1,4 @@
+---?image=assets/gopher-berlin-trans.png&size=auto 90%
 # GDG Golang Berlin
 
 ---?image=assets/gopher-trans.png&size=auto 90%
