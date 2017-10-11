@@ -6,9 +6,9 @@
 ## What is Go?
 
 - Progamming language developed by Google, published November 2009 |
-- It uses safe pointers (without pointer arithmetic) |
-- It has garbage collection |
 - Simple syntax between C and Java with some simple extensions |
+- It has garbage collection |
+- It uses safe pointers (without pointer arithmetic) |
 
 ---?image=assets/gopher-brown-trans.png&size=auto 90%
 
@@ -33,7 +33,7 @@
 
 ---?image=assets/gopher-berlin-trans.png&size=auto 90%
 
-# 1351 Members
+# 1352 Members
 
 ---?image=assets/friendly-gophers.jpeg&size=contain
 
@@ -125,3 +125,4 @@ Friendly people
 
 [www.meetup.com/golang-users-berlin](https://www.meetup.com/golang-users-berlin)
 
+Next meetup: Next Wednesday, 2017-10-18
