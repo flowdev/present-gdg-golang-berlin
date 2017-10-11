@@ -5,7 +5,7 @@
 
 ## What is Go?
 
-- Progamming language developed by Google, published since November 2009 |
+- Progamming language developed by Google, published November 2009 |
 - It uses safe pointers (without pointer arithmetic) |
 - It has garbage collection |
 - Simple syntax between C and Java with some simple extensions |
@@ -16,16 +16,18 @@
 
 - Single static binary as result |
 - Java developers strive for a 10 minute build; Go developers get angry about a 10 second build |
-- Garbage collection guaranteed to block for less than 1 ms |
-- Go is free of magic and everybody strives for simplicity |
+- Garbage collection blocks for less than 1 ms |
+- Builtin concurrency handling (Goroutines) |
+- Go is free of magic |
+- Everybody strives for simplicity |
 
 ---?image=assets/gopher-pilot-trans.png&size=auto 90%
 
 ## What is Go used for?
 
 - Cloud technology (Docker, Kubernetes, Prometheus, ...) |
-- FinTech (solarisBank, Barzahlen, Fraugster, OptioPay, ...) |
 - Advertisement technology (Adjust, Remerge, ...) |
+- FinTech (solarisBank, Barzahlen, Fraugster, OptioPay, ...) |
 - ??? |
 - Mostly used by startups but enterprises are coming |
 
@@ -71,11 +73,10 @@ Get to know some gophers.
 
 - GopherCon Recap! |
 - What 'happens before' means to a compiler |
-- Consumer-Driven Contract Testing |
-- Utilizing (Linux-) eBPF from Go |
-- Parsing Go in Go, for Fun and Profit |
 - A fast multi-threaded queue implementation in Go |
-- AutoSpoting: an automated EC2 spot market bidder designed to integrate well with AutoScaling |
+- Utilizing (Linux-) eBPF from Go |
+- Consumer-Driven Contract Testing |
+- Go away: HTTP load shedding |
 - Or PowerPoint karaoke for a Go release party |
 
 ---
@@ -97,17 +98,17 @@ Break: Get to know your future employer.
 
 ## Second Talk
 
+- Go @ hosting company |
+- Parsing Go in Go, for Fun and Profit |
 - Making Code Write Itself: How To Build Code Generation Tools in Go |
-- Go away: HTTP load shedding |
 - From ORM to LEFT OUTER JOIN - how we grew with Go |
 - Grand Treatise of Modern Instrumentation and Orchestration - the extended version |
-- Go @ hosting company |
 - Or fishbowl session |
 
 
 ---?image=assets/chating-gophers.jpeg&size=contain
 Note:
-End: Make some good friends.
+End: Make some friends.
 
 ---?image=assets/beer-gophers.jpeg&size=contain
 ---?image=assets/pizza-gophers.jpeg&size=contain
