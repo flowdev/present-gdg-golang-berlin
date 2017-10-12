@@ -8,7 +8,7 @@ by co-organizer Ole Bulbuk (ole108)
 ## What is Go?
 
 - Progamming language developed by Google, published November 2009 |
-- Simple syntax between C and Java with some simple extensions |
+- Simple syntax between C, Java and a scripting language with some simple extensions |
 - It has garbage collection |
 - It uses safe pointers (without pointer arithmetic) |
 - It is quite a mix of systems, scripting and object oriented language |
