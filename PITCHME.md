@@ -1,6 +1,8 @@
 ---?image=assets/gopher-berlin-trans.png&size=auto 90%
 # GDG Golang Berlin
 
+by co-organizer Ole Bulbuk (ole108)
+
 ---?image=assets/gopher-trans.png&size=auto 90%
 
 ## What is Go?
@@ -9,6 +11,7 @@
 - Simple syntax between C and Java with some simple extensions |
 - It has garbage collection |
 - It uses safe pointers (without pointer arithmetic) |
+- It is quite a mix of systems, scripting and object oriented language |
 
 ---?image=assets/gopher-brown-trans.png&size=auto 90%
 
@@ -38,7 +41,9 @@
 ---?image=assets/friendly-gophers.jpeg&size=contain
 
 Note:
-Around 70 attendees
+Around 50 to 70 attendees
+
+Next: Different hosting companies
 
 
 ---?image=assets/onefootball-gophers.jpeg&size=contain
@@ -57,6 +62,8 @@ Different hosting companies
 
 ---?image=assets/google-gophers1.jpeg&size=contain
 ---?image=assets/google-gophers2.jpeg&size=contain
+Note:
+Next, let's run through such a meetup.
 
 
 
@@ -112,12 +119,13 @@ End: Make some friends.
 
 ---?image=assets/beer-gophers.jpeg&size=contain
 ---?image=assets/pizza-gophers.jpeg&size=contain
-
+Note:
+All in all I would say that we are ...
 
 ---?image=assets/cute-gophers.jpeg&size=contain
 
 Note:
-Friendly people
+... a bunch of friendly gophers.
 
 ---?image=assets/meetup-trans.png&size=contain
 
