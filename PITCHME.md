@@ -24,6 +24,10 @@ by co-organizer Ole Bulbuk (ole108)
 - Go is free of magic |
 - Everybody strives for simplicity |
 
+Note:
+Talk by Rob Pike: "Simplicity is Complicated"
+
+
 ---?image=assets/gopher-pilot-trans.png&size=auto 90%
 
 ## What is Go used for?
